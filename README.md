@@ -4,9 +4,9 @@
 <h3 align="center">A passionate frontend developer from SA</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.30fuPl3x9KvMB2ZYW0k7owHaEK?pid=ImgDet&rs=1">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NCT-Association&label=Profile%20views&color=0e75b6&style=flat" alt="NCT-Association" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=THE-Association&label=Profile%20views&color=0e75b6&style=flat" alt="THE-Association" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NCT-Association" alt="NCT-Association" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=THE-Association" alt="THE-Association" /></a> </p>
 
 - 🌱 I’m currently learning **python,py**
 
@@ -30,14 +30,14 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/later"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="later" /></a><a href="https://ko-fi.com/later"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="later" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NCT-Association&show_icons=true&locale=en&layout=compact" alt="NCT-Association" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=THE-Association&show_icons=true&locale=en&layout=compact" alt="THE-Association" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NCT-Association&show_icons=true&locale=en" alt="mimibotto2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=THE-Association&show_icons=true&locale=en" alt="THE-Association" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NCT-Association&" alt="NCT-Association" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=THE-Association&" alt="THE-Association" /></p>
 
 
 <!---
-NCT-Association/mimibotto2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+THW-Association/THE-Association is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
